@@ -1,7 +1,9 @@
 # ue2wav
 
 A Windows GUI utility for converting Unreal Engine game audio files (`.ubulk` + `.uexp`) exported via [Fmodel](https://github.com/4sval/FModel) into standard WAV files using [binkadec](https://github.com/Keisawaakira/BinkadecWithWavHeader), without building "Local Mapping File" (usmap).
+
 Tested with UE 5.6 games using Fmodel, useful for gathering background music.
+
 **Please respect game developers and use it on games that you own; support creators by buying OST packs if they are available.**
 
 ## Requirements
